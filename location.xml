@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="EasyGPS 3.06" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.topografix.com/GPX/gpx_overlay/0/3 http://www.topografix.com/GPX/gpx_overlay/0/3/gpx_overlay.xsd http://www.topografix.com/GPX/gpx_modified/0/1 http://www.topografix.com/GPX/gpx_modified/0/1/gpx_modified.xsd http://www.topografix.com/GPX/Private/TopoGrafix/0/4 http://www.topografix.com/GPX/Private/TopoGrafix/0/4/topografix.xsd">
+  <metadata>
+    <name>Route 66 Attractions</name>
+    <desc>This is a pretty comprehensive list of POIs along the famed Mother Road Route 66. I provided descriptions whenever possible. Now go get your kicks on Route 66!</desc>
+    <bounds minlat="34.01138300" minlon="-118.49806700" maxlat="41.87951684" maxlon="-87.62437820"/>
+  </metadata>
+
+  <wpt lat="43.645586" lon="-79.388519">
+    <name>Worker 1</name>
+  </wpt>
+</gpx>
