@@ -10,11 +10,11 @@
     <name>Worker 1</name>
   </wpt>
   
-  <wpt lat="45.645586" lon="-109.388519">
+  <wpt lat="43.645901" lon="-79.388275">
     <name>Worker 2</name>
   </wpt>
   
-  <wpt lat="50" lon="-70">
+  <wpt lat="43.646063" lon="-79.387832">
     <name>Worker 3</name>
   </wpt>
 </gpx>
