@@ -9,4 +9,12 @@
   <wpt lat="43.645586" lon="-79.388519">
     <name>Worker 1</name>
   </wpt>
+  
+  <wpt lat="45.645586" lon="-109.388519">
+    <name>Worker 2</name>
+  </wpt>
+  
+  <wpt lat="50" lon="-70">
+    <name>Worker 3</name>
+  </wpt>
 </gpx>
